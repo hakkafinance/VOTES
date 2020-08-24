@@ -1,0 +1,3 @@
+address|vote|timestamp|signature
+---|---|---|---
+0x2682c20B8a8b00aF1BbbE87931C4d3C823f0BdD9|1|1598271612|0x6dff5ceccf22e713aa4ac15d6fc4607193145d2b7e1933c16a7081e1e4602fd01a475507d3dd69feecf6e30f8c017fbd294b2f26bcffc908dd2ac60a18b979a01b
